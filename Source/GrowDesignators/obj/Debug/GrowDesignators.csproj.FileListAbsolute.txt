@@ -1,0 +1,11 @@
+\\MAIN-RIG\SteamRimWorld\Mods\GrowDesignators-A16\Source\GrowDesignators\bin\Debug\GrowDesignators.dll
+\\MAIN-RIG\SteamRimWorld\Mods\GrowDesignators-A16\Source\GrowDesignators\bin\Debug\GrowDesignators.pdb
+\\MAIN-RIG\SteamRimWorld\Mods\GrowDesignators-A16\Source\GrowDesignators\bin\Debug\Assembly-CSharp.dll
+\\MAIN-RIG\SteamRimWorld\Mods\GrowDesignators-A16\Source\GrowDesignators\bin\Debug\UnityEngine.dll
+\\MAIN-RIG\SteamRimWorld\Mods\GrowDesignators-A16\Source\GrowDesignators\bin\Debug\Assembly-CSharp-firstpass.dll
+\\MAIN-RIG\SteamRimWorld\Mods\GrowDesignators-A16\Source\GrowDesignators\bin\Debug\NAudio.dll
+\\MAIN-RIG\SteamRimWorld\Mods\GrowDesignators-A16\Source\GrowDesignators\bin\Debug\NVorbis.dll
+\\MAIN-RIG\SteamRimWorld\Mods\GrowDesignators-A16\Source\GrowDesignators\bin\Debug\UnityEngine.xml
+\\MAIN-RIG\SteamRimWorld\Mods\GrowDesignators-A16\Source\GrowDesignators\obj\Debug\GrowDesignators.csprojResolveAssemblyReference.cache
+\\MAIN-RIG\SteamRimWorld\Mods\GrowDesignators-A16\Source\GrowDesignators\obj\Debug\GrowDesignators.dll
+\\MAIN-RIG\SteamRimWorld\Mods\GrowDesignators-A16\Source\GrowDesignators\obj\Debug\GrowDesignators.pdb
